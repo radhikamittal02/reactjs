@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hey Radhika Mittal! I think It's auto deploy!
+          Auto Deployment on the way!!
         </p>
       </header>
     </div>
